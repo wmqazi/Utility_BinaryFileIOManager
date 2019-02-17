@@ -1,0 +1,5 @@
+G:\Ph. D. Code Base\BinaryFileIOManager\BinaryFileIOManager\bin\Debug\BinaryFileIOManager.dll
+G:\Ph. D. Code Base\BinaryFileIOManager\BinaryFileIOManager\bin\Debug\BinaryFileIOManager.pdb
+G:\Ph. D. Code Base\BinaryFileIOManager\BinaryFileIOManager\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\BinaryFileIOManager\BinaryFileIOManager\obj\Debug\BinaryFileIOManager.dll
+G:\Ph. D. Code Base\BinaryFileIOManager\BinaryFileIOManager\obj\Debug\BinaryFileIOManager.pdb
